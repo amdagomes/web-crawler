@@ -6,7 +6,7 @@ Simple algorithm for capturing texts in news blogs using node.js
 
 Requires [Node.js](https://nodejs.org/) v10 + to be executed.
 
-Install the dependency and start the server.
+Install the packages and start the server.
 
 ```sh
 $ npm i --save cheerio request
